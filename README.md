@@ -1,2 +1,2 @@
 # git-hub-studying-2023
-self test
+self test of Ishimwe
